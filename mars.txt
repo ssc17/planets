@@ -1,1 +1,3 @@
-This is the mars file. These are now some changes. 
+This is the mars file. These are now some changes.
+The new message we are adding is hopefully going to be tracked and
+ saved in git. 
